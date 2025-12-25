@@ -100,3 +100,7 @@ Code is organized into NestJS modules (`AppModule`, `TransactionModule`), provid
 
 - `POST /transactions/initiate` - Initiate a new transaction
 - `POST /transactions/callback` - Handle gateway callback
+
+## API Endpoints
+
+- `https://transaction-control.onrender.com/transactions/initiate` - Live URL
